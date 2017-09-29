@@ -1,8 +1,12 @@
 body {
  font-family: "Open Sans", sans-serif;
-  color: darkblue;
+  color: DarkBlue;
   margin: 10px, 50px, 10px, 50px;
   background-color: Ivory;
+}
+title {
+font-family: "Oswald";
+  color: DarkBlue
 }
 
 h1, h2 {
